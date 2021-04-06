@@ -20,7 +20,7 @@ Refreh chrome dan liat hasilnya
 
 ### 3. Menambahkan Inline CSS
 
-Tambahkan inline css pada tag <p>
+Tambahkan inline css pada tag "p"
   
  ![](Photo/5.PNG)
  
@@ -32,7 +32,7 @@ Tambahkan inline css pada tag <p>
  
  ![](Photo/7.PNG)
  
- tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+ tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian "head"
   
   ![](Photo/8.PNG)
   
